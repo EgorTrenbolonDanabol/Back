@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	var a float32 = 123.1
+	var a string = "ver2"
 	fmt.Print(a)
 }
