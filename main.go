@@ -8,6 +8,16 @@ func main() {
 	fmt.Print(a)
 	fmt.Print(a)
 	fmt.Print(a)
-
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
+	fmt.Print(a)
 	println(a)
 }
